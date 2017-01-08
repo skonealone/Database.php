@@ -1,6 +1,6 @@
 <?php
 /**
- * User: skonealone
+ * Author: skonealone
  * Date: 12/13/16
  * Time: 12:21 PM
  * Email: skonealone@gmail.com 
